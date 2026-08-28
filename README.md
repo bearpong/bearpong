@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I’m Michele
 
-<!--
-**bearpong/bearpong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack software engineer at [Berachain](https://www.github.com/berachain/).
 
-Here are some ideas to get you started:
+## Selected Berachain work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [BeraHub](https://hub.berachain.com/)
+- [Bend](https://bend.berachain.com/)
+- [BUSD](https://busd.berachain.com/)
+- [BEEP](https://beep.berachain.com/docs)
+- [Berachain](https://www.berachain.com/)
+
+## Elsewhere
+
+[Personal GitHub](https://github.com/michelebruno) · [Portfolio](https://www.michelebruno.co/) · [LinkedIn](https://www.linkedin.com/in/brunomichele/)
